@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 # 📋 Task Manager App
 
-A sleek and functional task management app built with **Flutter**, designed as a final project for Week 3 of the Coursera Programming with JavaScript course. This app allows users to add, delete, and mark tasks as complete, with **persistent data storage** and a toggleable **dark/light theme**.
+A sleek and functional task management app built with **Flutter**, designed as a final project for Week 3 of the Programming with JavaScript . This app allows users to add, delete, and mark tasks as complete, with **persistent data storage** and a toggleable **dark/light theme**.
 
 ---
 
